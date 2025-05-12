@@ -1,0 +1,28 @@
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\Karapınarlar Mazot Takip Sistemi.exe.config
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\Karapınarlar Mazot Takip Sistemi.exe
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\Karapınarlar Mazot Takip Sistemi.pdb
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\EntityFramework.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\System.Data.SQLite.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\EntityFramework.xml
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\System.Data.SQLite.xml
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar Mazot Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar_Mazot_Takip_Sistemi.Form1.resources
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar_Mazot_Takip_Sistemi.Properties.Resources.resources
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar Mazot Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar Mazot Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapına.23B771FA.Up2Date
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar Mazot Takip Sistemi.exe
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar Mazot Takip Sistemi.pdb
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\tr-TR\Karapınarlar Mazot Takip Sistemi.resources.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar_Mazot_Takip_Sistemi.Form1.tr-TR.resources
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\tr-TR\Karapınarlar Mazot Takip Sistemi.resources.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\en\Karapınarlar Mazot Takip Sistemi.resources.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\Karapınarlar_Mazot_Takip_Sistemi.Form1.en.resources
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\obj\Debug\en\Karapınarlar Mazot Takip Sistemi.resources.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\itextsharp.dll
+C:\Users\ygtfu\source\repos\Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi\bin\Debug\itextsharp.xml

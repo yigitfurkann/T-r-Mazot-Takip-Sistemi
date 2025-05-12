@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karapınarlar Mazot Takip Sistemi", "Karapınarlar Mazot Takip Sistemi\Karapınarlar Mazot Takip Sistemi.csproj", "{A09C43A5-5298-480A-ADE4-1B0B9A78E6A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{72D3F612-4862-4CBD-8CD4-0EFFE0A88FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09C43A5-5298-480A-ADE4-1B0B9A78E6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09C43A5-5298-480A-ADE4-1B0B9A78E6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09C43A5-5298-480A-ADE4-1B0B9A78E6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09C43A5-5298-480A-ADE4-1B0B9A78E6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D3F612-4862-4CBD-8CD4-0EFFE0A88FAA}.Debug|Any CPU.ActiveCfg = Debug
+		{72D3F612-4862-4CBD-8CD4-0EFFE0A88FAA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC4016C-BEEC-4E39-AAA4-7E6BAD890AFF}
+	EndGlobalSection
+EndGlobal
